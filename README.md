@@ -52,11 +52,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  </div>
-
-  ###
-
-  <div align="center">
+    <img width="12" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Chart.js_logo.svg/1200px-Chart.js_logo.svg.png" height="40" alt="chartJs logo"  />
     <img width="12" />
     <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="wordpress logo"  />
@@ -72,11 +68,7 @@
     <img src="https://cdn.simpleicons.org/sass/CC6699" height="40" alt="sass logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
-  </div>
-
-  ###
-
-  <div align="center">
+    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
     <img width="12" />
     <img src="https://cdn.worldvectorlogo.com/logos/cypress-1.svg" height="40" alt="Cypress logo"  />
