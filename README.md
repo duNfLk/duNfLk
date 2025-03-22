@@ -56,6 +56,7 @@
 
   <div align="center">
     <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="wordpress logo"  />
+    <img width="12" />
     <img src="https://profilinator.rishav.dev/skills-assets/styled-components.png" height="40" alt="styledComponents logo"  />
     <img width="12" />
     <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
