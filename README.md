@@ -1,6 +1,40 @@
+<table>
+<td valign="center" width="60%" align="left">
+<h5 align="center">Hello World</h5>
+<div>
+
+```text
+                   -`
+                  .o+`                  eduardo@duNfLk
+                 `ooo/                  ----------------
+                `+oooo:                 Nationality: Brazilian
+               `+oooooo:                Uptime: A long time ago
+               -+oooooo+:               Languages: [Portuguese/English/Spanish]
+             `/:-:++oooo+:              Degree: Software Engineer - 2023
+            `/++++/+++++++:             Post-degree: DevOps & CyberSec - In progress
+          `/+++ooooooooooooo`           Hobbies: [Game/Music/Code/Hardware]
+          `/++++++++++++++++\:          Instrument: Bass (4 string guitar xD)
+         ./ooosssso++osssssso+`         Favorite Game:  Left 4 Dead 2
+        .oossssso-````/ossssss+`        Favorite Music: Superstar (G-Dragon)
+       -osssssso.      :ssssssso.       Favorite Drink: Wine Chopp
+      :osssssss/        osssso+++.      Favorite Code:  TypeScript
+     /ossssssss/        +ssssooo/-\     OS: Arch Linux (btw)
+   `/ossssso+/:-        -:/+osssso+-    CPU: Intel i5-9400f (6)
+  `+sso+:-`                 `.-/+oso:   GPU: AMD Radeon RX 6700 XT
+ `++:.                         `-/+-/   Memory: Not enough
+.`                               `\/    
+
+```
+
+>*Nós não vamos colocar uma meta. Nós vamos deixar uma meta aberta. Quando a gente atingir a meta, nós dobramos a meta.*
+
+</div>
+</td>
+
+<td valign="top" width="40%" align="center">
 <h4 align="center">Frontend</h4>
   
-###
+  ###
   
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -85,5 +119,3 @@
   <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
 </div>
-
-###
