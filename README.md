@@ -1,5 +1,3 @@
-<table>
-<td valign="center" width="60%" align="left">
 <h5 align="center">Hello World</h5>
 <div>
 
@@ -29,9 +27,7 @@
 >*Nós não vamos colocar uma meta. Nós vamos deixar uma meta aberta. Quando a gente atingir a meta, nós dobramos a meta.*
 
 </div>
-</td>
 
-<td valign="top" width="40%" align="center">
 <h4 align="center">Frontend</h4>
   
   ###
