@@ -1,35 +1,3 @@
-<table>
-<td valign="center" width="50%" align="left">
-<h5 align="center">Hello World</h5>
-<div>
-
-    greg@duNfLk
-    -----------------------------------------------
-    Degree:         Software Engineer - 2023
-    Post-degree:    DevOps & CyberSec - In progress
-    Nationality:    Brazilian
-    Languages:      [Portuguese/English/Spanish]
-    OS:             Arch Linux (btw)
-    Instrument:     Bass (4 string guitar xD)
-    Hobbies:        [Game/Music/Code/Hardware]
-    Favorite Game:  Left 4 Dead 2
-    Favorite Music: Superstar (G-Dragon)
-    Favorite Drink: Wine Chopp
-    Favorite Code:  TypeScript
-    CPU:            Intel i5-9400f (6)
-    GPU:            Radeon RX 6750 XT
-
-</div>
-
-###
-
-<div>
-  <img src="https://raw.githubusercontent.com/duNfLk/duNfLk/output/snake.svg" alt="Snake animation" />
-</div>
-
-</td>
-
-<td valign="top" width="50%" align="center">
 <h4 align="center">Frontend</h4>
   
   ###
@@ -118,6 +86,3 @@
 </div>
 
 ###
-
-</td>
-</table>
