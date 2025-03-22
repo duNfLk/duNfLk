@@ -18,8 +18,10 @@
     Favorite Code:  TypeScript
     CPU:            Intel i5-9400f (6)
     GPU:            Radeon RX 6750 XT
-    
+
 </div>
+
+###
 
 <div>
   <img src="https://raw.githubusercontent.com/duNfLk/duNfLk/output/snake.svg" alt="Snake animation" />
@@ -55,6 +57,8 @@
   ###
 
   <div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Chart.js_logo.svg/1200px-Chart.js_logo.svg.png" height="40" alt="chartJs logo"  />
+    <img width="12" />
     <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="wordpress logo"  />
     <img width="12" />
     <img src="https://profilinator.rishav.dev/skills-assets/styled-components.png" height="40" alt="styledComponents logo"  />
@@ -73,7 +77,7 @@
   ###
 
   <div align="center">
-    <img src="https://cdn.simpleicons.org/jest/C21325" height="40" alt="jest logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
     <img width="12" />
     <img src="https://cdn.worldvectorlogo.com/logos/cypress-1.svg" height="40" alt="Cypress logo"  />
     <img width="12" />
@@ -105,35 +109,35 @@
 ###
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="gradle logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-    <img width="12" />
-    <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
-    <img width="12" />
-    <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
-    <img width="12" />
-    <img src="https://www.svgrepo.com/download/373839/mjml.svg" height="40" alt="mjml logo"  />
-  </div>
+  <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="gradle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/download/373839/mjml.svg" height="40" alt="mjml logo"  />
+</div>
   
-  ###
+###
   
-  <h4 align="center">DevOps</h4>
+<h4 align="center">DevOps</h4>
   
-  ###
-  
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-    <img width="12" />
-    <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="digitalocean logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="digitalocean logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 ###
