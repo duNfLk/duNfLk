@@ -4,9 +4,9 @@
 <div>
 
     greg@duNfLk
-    --------------------------------------------
+    -----------------------------------------------
     Degree:         Software Engineer - 2023
-    Post-degree:    DevOps & ESC - In progress
+    Post-degree:    DevOps & CyberSec - In progress
     Nationality:    Brazilian
     Languages:      [Portuguese/English/Spanish]
     OS:             Arch Linux (btw)
