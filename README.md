@@ -12,10 +12,10 @@
             `/++++/+++++++:             Post-degree: DevOps & CyberSec - In progress
           `/+++ooooooooooooo`           Hobbies: [Game/Music/Code/Hardware]
           `/++++++++++++++++\:          Instrument: Bass (4 string guitar xD)
-         ./ooosssso++osssssso+`         Favorite Game:  Left 4 Dead 2
+         ./ooosssso++osssssso+`         Favorite Game: Stardew Valley
         .oossssso-````/ossssss+`        Favorite Music: Superstar (G-Dragon)
        -osssssso.      :ssssssso.       Favorite Drink: Wine Chopp
-      :osssssss/        osssso+++.      Favorite Code:  TypeScript
+      :osssssss/        osssso+++.      Favorite Code: TypeScript
      /ossssssss/        +ssssooo/-\     OS: Arch Linux (btw)
    `/ossssso+/:-        -:/+osssso+-    CPU: Intel i5-9400f (6)
   `+sso+:-`                 `.-/+oso:   GPU: AMD Radeon RX 6700 XT
